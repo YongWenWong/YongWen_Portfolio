@@ -1,3 +1,3 @@
 # YongWen_Portfolio
 
-![](/images/sample image.webp)
+![](/images/sample_image.webp)
