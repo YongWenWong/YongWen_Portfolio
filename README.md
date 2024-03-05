@@ -19,7 +19,7 @@ Welcome to my portfolio! Here, I document a summary of my projects.
 # SQL
 
 | Project Link | Area of Analysis | Project Description |
-|---|---|---|
+|---|---|---|   
 | url | placeholder | placeholder |
 | url | placeholder | placeholder |
 
